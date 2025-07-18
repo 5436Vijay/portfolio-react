@@ -1,0 +1,21 @@
+
+
+.head {
+  text-decoration: underline;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: rgb(21, 153, 109);
+  
+}
+
+.skill-head{
+    text-decoration: underline;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: rgb(21, 153, 109);
+   margin-left: 20px;
+}
+
+.box-content{
+    margin-left: 20px;
+}

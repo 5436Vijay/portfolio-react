@@ -1,0 +1,41 @@
+
+
+
+.heading {
+  
+  margin-left: 20px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  font-weight: bold;
+  font-size: 50px;
+  background: linear-gradient(to right, skyblue, orange);
+  color: transparent;
+  background-clip: text;
+  display: inline-block;
+  
+}
+
+.name {
+  
+  margin-left: 20px;
+  
+  font-weight: bolder;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: linear-gradient(to right, rgb(15, 146, 197), orange);
+  color: transparent;
+  background-clip: text;
+}
+
+.intro {
+  
+  margin-top: 30px;
+  line-height: 2;
+  margin-left: 20px;
+  margin-right: 120px;
+  color: rgb(21, 153, 109);
+}
+
+.emoji{
+  color: yellow;
+}

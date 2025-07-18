@@ -1,0 +1,27 @@
+.count {
+  background-color: rgb(213, 226, 233);
+  width: 350px;
+  border-radius: 10px;
+  border-bottom: 3px solid black;
+  margin-left: 24px;
+  margin-bottom: 50px;
+}
+
+.countcard {
+  
+  height: 60%;
+  background-color: skyblue;
+  border-bottom: 4px solid black;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 100px;
+  width: 400px;
+}
+.counthead {
+  
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
